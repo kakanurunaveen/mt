@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22822" started-at="2018-06-07T06:40:54Z" finished-at="2018-06-07T06:41:17Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22822" started-at="2018-06-07T06:40:54Z" finished-at="2018-06-07T06:41:17Z">
+      <class name="pages.mt.NewTest">
+        <test-method status="PASS" signature="verify_launch()[pri:0, instance:pages.mt.NewTest@3bfdc050]" name="verify_launch" is-config="true" duration-ms="9693" started-at="2018-06-07T06:40:54Z" finished-at="2018-06-07T06:41:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_launch -->
+        <test-method status="PASS" signature="verify_registerbtn()[pri:0, instance:pages.mt.NewTest@3bfdc050]" name="verify_registerbtn" duration-ms="924" started-at="2018-06-07T06:41:03Z" finished-at="2018-06-07T06:41:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_registerbtn -->
+        <test-method status="PASS" signature="verify_rpage()[pri:1, instance:pages.mt.NewTest@3bfdc050]" name="verify_rpage" duration-ms="11830" started-at="2018-06-07T06:41:04Z" finished-at="2018-06-07T06:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_rpage -->
+        <test-method status="PASS" signature="verify_close()[pri:0, instance:pages.mt.NewTest@3bfdc050]" name="verify_close" is-config="true" duration-ms="332" started-at="2018-06-07T06:41:16Z" finished-at="2018-06-07T06:41:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_close -->
+      </class> <!-- pages.mt.NewTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
